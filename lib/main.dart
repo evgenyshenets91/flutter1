@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           ),
           body: Center(
             child: Image(
-              image: NetworkImage(''),
+              image: AssetImage('images/diamond.png'),
             ),
           ),
         ));
